@@ -1,6 +1,0 @@
-Hello, welcome to the Git Tutorial.
-Now I have added more text.
-
-Text for branch comparsion. Won't be there in testing till before merge.
-
-Merging from local through git commands.
